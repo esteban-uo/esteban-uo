@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Esteban
 - 🚀 I’m interested in building meaningful development teams and solutions 
-- 👷‍♂️ I’m currently working for t-systems Germany as AWS Technical Project Manager for AWS Financial and Operation challenges 
+- 👷‍♂️ I’m currently working for T-Systems Germany as AWS, GCP and Azure Product Manager in Finance
 - 📫 You can reach me [here](https://de.linkedin.com/in/esteban-uscanga-olea-862aba64)
 
 <!---
